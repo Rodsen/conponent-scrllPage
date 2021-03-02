@@ -13,6 +13,7 @@ for (var i = 0;i<aWalls.length;i++) {
     elBtn.innerText = i+1;
     elBtns.appendChild(elBtn);
     
+    
 };
 // console.log (aBtns)
 // 绑定滚动事件
